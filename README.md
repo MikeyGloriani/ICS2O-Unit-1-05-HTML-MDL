@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/MikeyGloriani/ICS2O-Unit-1-05-HTML-MDL)](https://repl.it/github/MikeyGloriani/ICS2O-Unit-1-05-HTML-MDL)
 
-This site can be found at: [https://MikeyGloriani.github.io/ICS2O-Unit-1-05-HTML-MDL](https://MikeyGloriani.github.io/<REPOSITORY>)
+This site can be found at: [https://MikeyGloriani.github.io/ICS2O-Unit-1-05-HTML-MDL](https://MikeyGloriani.github.io/ICS2O-Unit-1-05-HTML-MDL)
